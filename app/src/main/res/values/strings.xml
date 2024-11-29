@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Meds 2025 IV</string>
+    <string name="ver_rem_dios">Ver Remédios</string>
+    <string name="configura_es">Configurações</string>
+    <string name="rem_dio_x">Remédio X</string>
+    <string name="antes_de_tomar_x_e_depois_y">Antes de Tomar X e depois Y</string>
+    <string name="adicionar_rem_dio">ADICIONAR REMÉDIO</string>
+    <string name="remover_rem_dio">REMOVER REMÉDIO</string>
+    <string name="nome">Nome</string>
+    <string name="dose_di_ria">Dose Diária</string>
+    <string name="n_mero_de_p_lulas">Número de Pílulas</string>
+    <string name="p_lulas_por_caixa">Pílulas Por Caixa</string>
+    <string name="nome_do_rem_dio">Nome do Remédio:</string>
+    <string name="adicionar_rem_dio2">Adicionar Remédio</string>
+    <string name="quantidade_p_dia">Quantidade P/Dia:</string>
+    <string name="remover_rem_dios">Remover Remédios</string>
+    <string name="nome2">Nome:</string>
+    <string name="quantos_voc_tem_hoje">Quantos você tem hoje:</string>
+    <string name="quantas_p_lulas_vem_na_caixa">Quantas pílulas vem na caixa:</string>
+</resources>
